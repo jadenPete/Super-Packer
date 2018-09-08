@@ -1,0 +1,9 @@
+name: SuperPacker
+main: com.jadenPete.SuperPacker.Main
+version: 1.0
+commands:
+  stacksize:
+    description: Set's item stack size
+    usage: "§cUsage: /stacksize <size>"
+    permission: superpacker.basic
+    permission-message: You don't have permission.

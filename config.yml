@@ -1,0 +1,8 @@
+messages:
+  stack-size: "§cChanged stack size of %i to %s"
+
+  exception: "§cCould not set item stack size."
+  no-item: "§cYou need to be holding an item!"
+  non-player: "Error: This command can only be run by a player."
+
+size-limit: 64
